@@ -26,7 +26,7 @@ I'm a versatile developer with a strong foundation in computer science and exten
 - Advanced React Native techniques
 - Cloud services integration
 
-## 🏆 Projects
+<!--## 🏆 Projects
 
 <!-- ### [Project Name](link-to-project)
 - **Description**: Brief description of the project.
@@ -38,9 +38,9 @@ I'm a versatile developer with a strong foundation in computer science and exten
 
 ## 📫 How to Reach Me
 
-- **Email**: [imhanzla05@example.com](mailto:imhanzla05@example.com)
-- **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/hanzla-munir-bb3136246/)
-- **GitHub**: [My GitHub Profile](https://github.com/hanzla05)
+- **Email**: [My Mail](mailto:imhanzla05@example.com)
+- **LinkedIn**: [https://www.linkedin.com/in/hanzla-munir](https://www.linkedin.com/in/hanzla-munir-bb3136246/)
+- **GitHub**: [https://github.com/hanzla05](https://github.com/hanzla05)
 
 <!-- ## 📈 GitHub Stats
 
