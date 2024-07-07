@@ -38,7 +38,7 @@ I'm a versatile developer with a strong foundation in computer science and exten
 
 ## 📫 How to Reach Me
 
-- **Email**: [imhanzla05@example.com](mailto:imhanzla05@example.com)
+- **Email**: [imhanzla05@gmail.com](mailto:imhanzla05@gmail.com)
 - **LinkedIn**: [https://www.linkedin.com/in/hanzla-munir](https://www.linkedin.com/in/hanzla-munir-bb3136246/)
 - **GitHub**: [https://github.com/hanzla05](https://github.com/hanzla05)
 
